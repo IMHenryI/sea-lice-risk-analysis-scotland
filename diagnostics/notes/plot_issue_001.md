@@ -3,7 +3,7 @@ Markdown
 # Issue ID: plot_issue_001
 
 ## Problem
- - Lice range from 0-25 is incorrect considering the data suggests it should be in the range of 0-2
+ - Lice range from 0-25 is alarming and suggests a dataset skewed to the right
 
 ## Evidence
  - Colour bar on the right hand side of the figure shows colour values up to 25
